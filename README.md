@@ -13,6 +13,8 @@ Dans ce projet, nous testons la configuration des
     - HTML (html-webpack-plugin)
     - MINI-CSS-Extract(mini-css-extract-plugin)
 - ts-config
+    * Compilation avec ligne de commande
+    * compilation avec fichier de conf
 - ts-node/nodeMon
 
 Dans des projets typescript et javascript

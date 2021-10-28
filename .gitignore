@@ -1,0 +1,9 @@
+node_modules/
+
+.idea/
+.vscode/
+
+dist/
+# contain the Nexus registery and _auth to download
+# the digiposte-logger-node package
+.npmrc

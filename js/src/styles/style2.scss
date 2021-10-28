@@ -1,0 +1,9 @@
+$couleur: gray;
+$bgbodyCouleur: black;
+.rouge {
+  color: $couleur;
+}
+
+body {
+  background-color: $bgbodyCouleur;
+}
